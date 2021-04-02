@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @AlexBorodulin1989
-- 👀 I’m interested in 3D
-- 🌱 I’m currently learning Metal Api
-- 💞️ I’m looking to collaborate on Metal Application
 - 📫 aleksanderborodoolin@mail.ru
 
 <!---
